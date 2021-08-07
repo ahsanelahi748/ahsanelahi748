@@ -10,9 +10,16 @@
 - 🥅 2020 Goals: Develop or contribute to Enterprise projects
 - ⚡ Fun fact: I love to play snooker and read tech blogs
 
+### Hire me:
+
+[<img align="left" alt="uowwork profile" width="22px" src="https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/60ad78807d691b59aa6e9780_Upwork%20Logo-Blog%20Thumbnail%20Image.png" />][upwork]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -41,7 +48,8 @@
 <br />
 
 
-[website]: https://codeSTACKr.com
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: 
+[instagram]: https://www.instagram.com/ahsan_elahi748/
+[linkedin]: https://www.linkedin.com/in/ahsan-elahi-05bb01203/
 [powerfan]:https://powerfan.io/token/#team
+[upwork]:https://www.upwork.com/freelancers/~01243395f3bba5db4e
