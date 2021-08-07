@@ -3,7 +3,7 @@
 ## I'm a Full stack Developer
 
 - 💸 I am working as software engineer at [Powerfan.io][powerfan]
-- 🏢 I part time freelance on Upwork, Fiverr
+- 🏢 I part time freelance on [Fiverr][fiverr], [Upwork][upwork] 
 - 👨‍💻 I am going to launch my own IT company
 - 🌱 I’m currently learning Spring framework
 - 👯 I’m looking to collaborate with startups
@@ -12,8 +12,7 @@
 
 ### Hire me:
 
-[<img align="left" alt="uowwork profile" width="50px" src="https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/60ad78807d691b59aa6e9780_Upwork%20Logo-Blog%20Thumbnail%20Image.png" />][upwork]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="uowwork profile" width="100px" src="https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/60ad78807d691b59aa6e9780_Upwork%20Logo-Blog%20Thumbnail%20Image.png" />][upwork]
 
 <br />
 
@@ -52,3 +51,4 @@
 [linkedin]: https://www.linkedin.com/in/ahsan-elahi-05bb01203/
 [powerfan]:https://powerfan.io/token/#team
 [upwork]:https://www.upwork.com/freelancers/~01243395f3bba5db4e
+[fiverr]:https://www.fiverr.com/ahsanelahi748
