@@ -15,7 +15,8 @@
 [<img align="left" alt="uowwork profile" width="100px" src="https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/60ad78807d691b59aa6e9780_Upwork%20Logo-Blog%20Thumbnail%20Image.png" />][upwork]
 
 <br />
-
+<br />
+<br />
 
 ### Connect with me:
 
@@ -23,8 +24,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
-<br />
+
 
 ### Languages and Tools:
 
