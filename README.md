@@ -7,7 +7,7 @@
 - 👨‍💻 I am going to launch my own IT company
 - 🌱 I’m currently learning Golang, Etherum Blockchain
 - 👯 I’m looking to collaborate with startups
-- 🥅 2020 Goals: Develop or contribute to Enterprise projects
+- 🥅 2021 Goals: Develop or contribute to Enterprise projects
 - ⚡ Fun fact: I love to play snooker and read tech blogs
 
 ### Hire me:
