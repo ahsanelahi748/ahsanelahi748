@@ -5,9 +5,9 @@
 - 💸 I am working as software engineer at [Powerfan.io][powerfan]
 - 🏢 I part time freelance on [Fiverr][fiverr], [Upwork][upwork] 
 - 👨‍💻 I am going to launch my own IT company
-- 🌱 I’m currently learning Golang, Etherum Blockchain
+- 🌱 I’m currently learning Golang, and Solana Blockchain
 - 👯 I’m looking to collaborate with startups
-- 🥅 2021 Goals: Develop or contribute to Enterprise projects
+- 🥅 2022 Goals: Develop or contribute to Enterprise projects
 - ⚡ Fun fact: I love to play snooker and read tech blogs
 
 ### Hire me:
@@ -42,7 +42,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt="Terminal" width="26px" src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" />
 
 
 <br />
